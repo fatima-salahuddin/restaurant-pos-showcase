@@ -1,4 +1,23 @@
-# Restaurant POS and Kitchen Display (case study)
+<h1>Restaurant POS and Kitchen Display</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/case_study-0F172A?style=flat-square" alt="Case study">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+</p>
+
+<table>
+  <tr>
+    <td align="center"><b>4</b><br><sub>kitchen stations<br>routed live</sub></td>
+    <td align="center"><b>3</b><br><sub>languages, incl.<br>Arabic RTL</sub></td>
+    <td align="center"><b>3</b><br><sub>tender types<br>split per bill</sub></td>
+    <td align="center"><b>0</b><br><sub>floating-point<br>money</sub></td>
+    <td align="center"><b>6 h</b><br><sub>automatic<br>DB snapshots</sub></td>
+  </tr>
+</table>
 
 A real-time, multi-terminal point of sale and kitchen display system I designed and built, as the
 sole developer, for Eastern Palace, a Chinese hotpot restaurant in Kuwait. Waiters order from any
